@@ -1,4 +1,4 @@
-Trophies!
+Trophies
 ---
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Priyasha-Yadav&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15)](https://github.com/Priyasha-Yadav)
 
@@ -21,16 +21,17 @@ const Priyasha = {
             css: ["Bootstrap"],
         },
         backEnd: {
-            js: ["Node", "Express", "NestJS"],
+            js: ["Node", "Express"],
         },
       
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
+        misc: ["REST APIs"],
+        generativeAI: ["GPT", "Meta"],
     },
-        funFact: "Favourite emoji :skull:"
+        funFact: "Favourite emoji: 💀"
 };
 ```
-
+> **"If you weren't ready, you wouldn't have the opportunity.  
+> If you weren't capable, you wouldn't have the desire."**
 
 <!---
 Priyasha-Yadav/Priyasha-Yadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
