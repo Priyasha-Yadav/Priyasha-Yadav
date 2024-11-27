@@ -1,5 +1,8 @@
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Priyasha-Yadav&title=Stars,Followers,Commit,Repositories,PullRequest,Issues&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15)](https://github.com/Priyasha-Yadav)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Priyasha-Yadav&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15)](https://github.com/Priyasha-Yadav)
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=Priyasha-Yadav&hide=contribs,prs/&rank_icon=percentile)](https://github.com/Priyasha-Yadav) 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyasha-Yadav&layout=compact)](https://github.com/Priyasha-Yadav)
 - 👋 Hi, I’m @Priyasha-Yadav
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
