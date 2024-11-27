@@ -1,5 +1,5 @@
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Priyasha-Yadav&title=Stars,Followers,Commit,Repositories,PullRequest,Issues,Experience&theme=juicyfresh&no-frame=true)](https://github.com/Priyasha-Yadav)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Priyasha-Yadav&title=Stars,Followers,Commit,Repositories,PullRequest,Issues&theme=juicyfresh&no-frame=true&column=3&margin-w=15&margin-h=15)](https://github.com/Priyasha-Yadav)
 - 👋 Hi, I’m @Priyasha-Yadav
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
