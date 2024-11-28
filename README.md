@@ -1,14 +1,24 @@
 # Heya! 👋 I'm Priyasha Yadav
-Welcome to my GitHub profile!  Here's a bit about me:
+
+Welcome to my GitHub profile! 
+
+I’m Priyasha — a human being who spends her days turning coffee ☕ into code 💻... and pretending to know what I’m doing (but really Googling/ChatGPTing half the time 🤫). I’m all about building cool things, usually fueled by a 3 a.m. coding session — because who needs sleep when you can write code that *almost* works? 😜
+
+When I’m not busy fixing syntax errors, I’m diving into the latest AI trends and technology or wondering why my Wi-Fi always fails at the worst possible moment. Let’s connect and make the tech world just a little more fun — or at least try to break less stuff along the way! 🚀
+
+Here's a bit about me:
+
+## Connect
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyasha-yadav-3a098833a)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyasha.yadav.cg@gmail.com)
 
 ## 🔥 Trophies 🔥
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Priyasha-Yadav&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15)](https://github.com/Priyasha-Yadav)
 
 ## 🔥 Stats 🔥
-[![Stats](https://github-readme-stats.vercel.app/api?username=Priyasha-Yadav\&show_icons=true\&rank_icon=github&theme=highcontrast&border_color=00000000)](https://github.com/Priyasha-Yadav) 
+[![Stats](https://github-readme-stats.vercel.app/api?username=Priyasha-Yadav\&show_icons=true\&rank_icon=github&theme=highcontrast&border_color=00000000)](https://github.com/Priyasha-Yadav)
 
 ## 🔥 Most Used Languages 🔥
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyasha-Yadav&layout=compact&theme=highcontrast&border_color=00000000)](https://github.com/Priyasha-Yadav)
 
 ## 🔥 About Me 🔥
@@ -24,11 +34,10 @@ const Priyasha = {
         backEnd: {
             js: ["Node", "Express"],
         },
-      
         misc: ["REST APIs"],
         generativeAI: ["GPT", "Meta"],
     },
-        funFact: "Favourite emoji: 💀"
+    funFact: "Favourite emoji: 💀 (because coding is sometimes *that* dramatic)"
 };
 ```
 ## 💡 Current Favourite Quote: 
@@ -36,6 +45,6 @@ const Priyasha = {
 > If you weren't capable, you wouldn't have the desire."**
 
 <!---
-Priyasha-Yadav/Priyasha-Yadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Priyasha-Yadav/Priyasha-Yadav is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
