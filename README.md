@@ -1,5 +1,5 @@
 # Heya! 👋 I'm Priyasha Yadav
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile!)]
 
 I’m Priyasha — a human being who spends her days turning coffee ☕ into code 💻... and pretending to know what I’m doing (but really Googling/ChatGPTing half the time 🤫). I’m all about building cool things, usually fueled by a 3 a.m. coding session — because who needs sleep when you can write code that *almost* works?✨
 
