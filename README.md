@@ -41,7 +41,7 @@ const Priyasha = {
 ## Connect
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyasha-yadav-3a098833a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyasha.yadav.cg@gmail.com)
-
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YadavPriyasha)
 
 ## 💡 Current Favourite Quote: 
 > **"If you weren't ready, you wouldn't have the opportunity.  
