@@ -1,8 +1,6 @@
 # Heya! 👋 I'm Priyasha Yadav
-
-Welcome to my GitHub profile! 
-
-I’m Priyasha — a human being who spends her days turning coffee ☕ into code 💻... and pretending to know what I’m doing (but really Googling/ChatGPTing half the time 🤫). I’m all about building cool things, usually fueled by a 3 a.m. coding session — because who needs sleep when you can write code that *almost* works?
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&width=435&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)  
+I’m Priyasha — a human being who spends her days turning coffee ☕ into code 💻... and pretending to know what I’m doing (but really Googling/ChatGPTing half the time 🤫). I’m all about building cool things, usually fueled by a 3 a.m. coding session — because who needs sleep when you can write code that *almost* works?✨
 
 When I’m not busy fixing syntax errors, I’m diving into the latest AI trends and technology or wondering why my Wi-Fi always fails at the worst possible moment. Let’s connect and make the tech world just a little more fun — or at least try to break less stuff along the way! 🚀
 
