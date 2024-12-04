@@ -53,10 +53,8 @@ const Priyasha = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyasha.yadav.cg@gmail.com)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YadavPriyasha)
 
-## 💡 Current Favourite Quote: 
-> **"If you weren't ready, you wouldn't have the opportunity.  
-> If you weren't capable, you wouldn't have the desire."**
-
+## 💡 Current Quote: 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)
 <!---
 Priyasha-Yadav/Priyasha-Yadav is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
