@@ -53,9 +53,12 @@ const Priyasha = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyasha.yadav.cg@gmail.com)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YadavPriyasha)
 
+
 ## 💡 Current Quote: 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)
 <!---
 Priyasha-Yadav/Priyasha-Yadav is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+<a href="https://app.daily.dev/priyashayadav"><img src="https://api.daily.dev/devcards/v2/1Lf1eC3xtm6yG7SuAA0Bt.png?type=wide&r=dgy" width="652" alt="Priyasha Yadav's Dev Card"/></a>
 --->
