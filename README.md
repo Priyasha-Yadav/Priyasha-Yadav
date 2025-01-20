@@ -60,7 +60,6 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://app.daily.dev/priyashayadav"><img src="https://api.daily.dev/devcards/v2/1Lf1eC3xtm6yG7SuAA0Bt.png?type=wide&r=dgy" width="652" alt="Priyasha Yadav's Dev Card"/></a>
 --->
-![snake animation](https://github.com/priyasha-yadav/priyasha-yadav/output/github-contribution-grid-snake-dark.svg)
-
+![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/Priyasha-Yadav/Priyasha-Yadav/output/github-contribution-grid-snake-dark.svg)
 ## Visits
 ![Visits Badge](https://profile-counter.glitch.me/Priyasha-Yadav/count.svg)
