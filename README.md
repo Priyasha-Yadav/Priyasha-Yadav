@@ -41,9 +41,6 @@ const Priyasha = {
 ## Most Used Languages:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyasha-Yadav&layout=compact&theme=highcontrast&border_color=00000000)](https://github.com/Priyasha-Yadav)
 
-
-
-
 ## Platforms:
 
 [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@priyasha.yadav.cg)
@@ -63,3 +60,7 @@ You can click the Preview link to take a look at your changes.
 
 <a href="https://app.daily.dev/priyashayadav"><img src="https://api.daily.dev/devcards/v2/1Lf1eC3xtm6yG7SuAA0Bt.png?type=wide&r=dgy" width="652" alt="Priyasha Yadav's Dev Card"/></a>
 --->
+![Snake Animation](snake.yml)
+
+## Visits
+![Visits Badge](https://profile-counter.glitch.me/Priyasha-Yadav/count.svg)
