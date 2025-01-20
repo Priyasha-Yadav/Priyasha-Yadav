@@ -25,6 +25,12 @@ jobs:
           echo "GIT_TRACE=1" >> $GITHUB_ENV
           echo "GIT_CURL_VERBOSE=1" >> $GITHUB_ENV
 
+      # Set Git user identity for commits
+      - name: Set Git user identity
+        run: |
+          git config user.name "Priyasha-Yadav"
+          git config user.email "priyasha.yadav.cg@gmail.com"
+
       # Generate the contribution grid animation
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
