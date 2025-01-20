@@ -1,28 +1,34 @@
 name: Generate Animation
+
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-  workflow_dispatch:
+  schedule:  # Run every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:  # Allow manual triggering
+
 jobs:
   generate:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-22.04  # Use Ubuntu 22.04 for consistency
 
     steps:
+      # Step 1: Checkout the repository
       - name: Checkout the repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.PAT_TOKEN }}  # Use PAT for authentication
+          token: ${{ secrets.PAT_TOKEN }}  # Use the Personal Access Token for authentication
 
+      # Step 2: Enable debug logging for Git (for troubleshooting)
       - name: Enable debug logging for Git
         run: |
           echo "GIT_TRACE=1" >> $GITHUB_ENV
           echo "GIT_CURL_VERBOSE=1" >> $GITHUB_ENV
 
+      # Step 3: Set Git user identity (to avoid errors when making commits)
       - name: Set Git user identity
         run: |
           git config user.name "Priyasha-Yadav"
           git config user.email "priyasha.yadav.cg@gmail.com"
 
+      # Step 4: Generate GitHub Contribution Snake Animation
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
@@ -31,40 +37,44 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use PAT_TOKEN here
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use the PAT here for generating the snake SVG
 
+      # Step 5: Verify the generated files in the dist directory
       - name: Verify files in dist directory
         run: |
-          ls -la dist
+          ls -la dist  # List files in the dist directory to verify the SVGs
 
+      # Step 6: Check if the generated SVG files exist
       - name: Check if the generated SVG files exist
         run: |
           if [ ! -f dist/github-contribution-grid-snake.svg ]; then
             echo "Error: github-contribution-grid-snake.svg not found!"
-            exit 1
+            exit 1  # Fail the workflow if the SVG isn't found
           fi
           if [ ! -f dist/github-contribution-grid-snake-dark.svg ]; then
             echo "Error: github-contribution-grid-snake-dark.svg not found!"
-            exit 1
+            exit 1  # Fail the workflow if the dark SVG isn't found
           fi
 
+      # Step 7: Create or switch to the output branch
       - name: Create or switch to the output branch
         run: |
           git fetch origin
           if git show-ref --verify --quiet refs/heads/output; then
-            git checkout output
+            git checkout output  # If the branch exists, switch to it
           else
-            git checkout --orphan output
+            git checkout --orphan output  # Create a new orphan branch if it doesn't exist
             git reset --hard
-            git commit --allow-empty -m "Initial commit on output branch"
-            git push origin output
+            git commit --allow-empty -m "Initial commit on output branch"  # Make an empty commit if the branch is new
+            git push origin output  # Push the new branch to the remote repository
           fi
 
+      # Step 8: Push the generated SVGs to the output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output  # Target branch where the files will be pushed
+          build_dir: dist  # Directory containing the generated SVGs
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use PAT here
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use PAT for pushing files
 
