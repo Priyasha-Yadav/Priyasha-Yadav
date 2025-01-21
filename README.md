@@ -61,5 +61,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://app.daily.dev/priyashayadav"><img src="https://api.daily.dev/devcards/v2/1Lf1eC3xtm6yG7SuAA0Bt.png?type=wide&r=dgy" width="652" alt="Priyasha Yadav's Dev Card"/></a>
 --->
 ![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/Priyasha-Yadav/Priyasha-Yadav/output/github-contribution-grid-snake-dark.svg)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyasha-Yadav&custom_title=Development%20Activity&hide_border=true&bg_color=0d1117&line=23A401&point=B116A8&color=c9d1d9&title_color=23A401&area=true)
 ## Visits
 ![Visits Badge](https://profile-counter.glitch.me/Priyasha-Yadav/count.svg)
