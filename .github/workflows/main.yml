@@ -1,9 +1,7 @@
-name: Generate Animation
-
 on:
-  schedule:  # Run every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch:  # Allow manual triggering
+  schedule:
+  - cron: "0 0,12 * * *"
+  workflow_dispatch:
 
 jobs:
   generate:
@@ -14,7 +12,7 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.PAT_TOKEN }}  # Use the Personal Access Token for authentication
+          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}  # Use SSH key for authentication (make sure you have added it as a secret)
 
       # Step 2: Enable debug logging for Git (for troubleshooting)
       - name: Enable debug logging for Git
@@ -69,12 +67,10 @@ jobs:
             git push origin output  # Push the new branch to the remote repository
           fi
 
-      # Step 8: Push the generated SVGs to the output branch
+      # Step 8: Push to output branch using SSH
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output  # Target branch where the files will be pushed
-          build_dir: dist  # Directory containing the generated SVGs
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}  # Use PAT for pushing files
-
+        run: |
+          git remote set-url origin git@github.com:Priyasha-Yadav/Priyasha-Yadav.git  # Use SSH for push
+          git add dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg
+          git commit -m "Update contribution snake"
+          git push origin output  # Push the changes to the output branch
