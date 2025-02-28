@@ -12,7 +12,7 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v3
         with:
-          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}  # Use SSH key for authentication (make sure you have added it as a secret)
+          ssh-key: ${{ secrets.SSH_Key }}  # Use SSH key for authentication (make sure you have added it as a secret)
 
       # Step 2: Enable debug logging for Git (for troubleshooting)
       - name: Enable debug logging for Git
