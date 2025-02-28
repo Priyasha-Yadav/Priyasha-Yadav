@@ -56,7 +56,14 @@ jobs:
             exit 1  # Fail the workflow if the dark SVG isn't found
           fi
 
-      # Step 7: Create or switch to the output branch
+      # Step 7: Pull the latest changes from the remote output branch
+      - name: Pull latest changes from remote output branch
+        run: |
+          git fetch origin
+          git checkout output
+          git pull origin output --rebase  # Pull the latest changes and rebase if needed
+
+      # Step 8: Create or switch to the output branch
       - name: Create or switch to the output branch
         run: |
           git fetch origin
@@ -69,7 +76,7 @@ jobs:
             git push origin output  # Push the new branch to the remote repository
           fi
 
-      # Step 8: Push the generated SVGs to the output branch
+      # Step 9: Push the generated SVGs to the output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
