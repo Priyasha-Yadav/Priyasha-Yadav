@@ -28,7 +28,80 @@ const Priyasha = {
 ```
 
 ## Tools and Languages:
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"><img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">&nbsp;&nbsp;<img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">&nbsp;&nbsp;<img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png"><img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">&nbsp;&nbsp;<img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">&nbsp;&nbsp;<img height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png">&nbsp;&nbsp;<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">&nbsp;<img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">&nbsp;&nbsp;<img height="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png">&nbsp; &nbsp;<img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png"><img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png">
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png">
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center; background-color: #f2f2f2;">
+      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png">
+    </td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png">
+    </td>
+    <td style="border: 1px solid #ddd; padding: 10px; text-align: center;">
+      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png">
+    </td>
+  </tr>
+</table>
+
+
 <!--https://github.com/marwin1991/profile-technology-icons-->
 ## Trophies:
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Priyasha-Yadav&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15)](https://github.com/Priyasha-Yadav)
