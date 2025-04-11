@@ -125,6 +125,24 @@ const Priyasha = {
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YadavPriyasha)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/32474399)
 
+## My Github Pets:
+
+
+<a href="https://github.com/Priyasha-Yadav/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Priyasha-Yadav" width="2000" height="100"/>
+</a>
+
+
+<a href="https://github.com/Priyasha-Yadav/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Priyasha-Yadav?pet-id=698387297160483684" width="2000" height="120"/>
+</a>
+
+
+<a href="https://github.com/Priyasha-Yadav/gitanimals">
+  <img src="https://render.gitanimals.org/lines/Priyasha-Yadav?pet-id=698387297160483685" width="1000" height="200"/>
+</a>
+
+
 ## 💡 Current Quote: 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)
 <!---
