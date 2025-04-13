@@ -129,17 +129,17 @@ const Priyasha = {
 
 
 <a href="https://github.com/Priyasha-Yadav/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Priyasha-Yadav" width="2000" height="100"/>
+  <img src="https://render.gitanimals.org/lines/Priyasha-Yadav" width="5000" height="120"/>
 </a>
 
 
 <a href="https://github.com/Priyasha-Yadav/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Priyasha-Yadav?pet-id=698387297160483684" width="2000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/Priyasha-Yadav?pet-id=698387297160483684" width="1200" height="120"/>
 </a>
 
 
 <a href="https://github.com/Priyasha-Yadav/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Priyasha-Yadav?pet-id=698387297160483685" width="1000" height="200"/>
+  <img src="https://render.gitanimals.org/lines/Priyasha-Yadav?pet-id=698387297160483685" width="1200" height="260"/>
 </a>
 
 
