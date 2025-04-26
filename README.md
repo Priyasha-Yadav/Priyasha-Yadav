@@ -140,7 +140,7 @@ const Priyasha = {
 
 
 <a href="https://github.com/Priyasha-Yadav/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Priyasha-Yadav?pet-id=698387297160483684" width="1200" height="120"/>
+  <img src="https://render.gitanimals.org/lines/Priyasha-Yadav?pet-id=698387297160483684" width="1200" height="200"/>
 </a>
 
 
