@@ -118,7 +118,7 @@ const Priyasha = {
 
 
 ## Most Used Languages:
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyasha-Yadav&layout=compact&theme=highcontrast&border_color=00000000)](https://github.com/Priyasha-Yadav)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyasha-Yadav&layout=compact&theme=highcontrast&hide_border=true&timestamp=1691991123)](https://github.com/Priyasha-Yadav)
 
 ## Platforms:
 
