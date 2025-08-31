@@ -58,6 +58,9 @@ const Priyasha = {
     <td style=" padding: 10px; text-align: center;">
       <img height="50" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png">
     </td>
+    <td style=" padding: 10px; text-align: center;">
+      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png">
+    </td>
   </tr>
   <tr>
     <td style=" padding: 10px; text-align: center;">
@@ -81,6 +84,9 @@ const Priyasha = {
     <td style="padding: 10px; text-align: center;">
       <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png">
     </td>
+    <td style="padding: 10px; text-align: center;">
+      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png">
+    </td>
   </tr>
   <tr>
     <td style="padding: 10px; text-align: center;">
@@ -103,6 +109,9 @@ const Priyasha = {
     </td>
     <td style=" padding: 10px; text-align: center;">
       <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png">
+    </td>
+    <td style=" padding: 10px; text-align: center;">
+      <img height="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png">
     </td>
   </tr>
 </table>
