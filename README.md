@@ -119,8 +119,7 @@ const Priyasha = {
 
 <!--https://github.com/marwin1991/profile-technology-icons-->
 ## Trophies:
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Priyasha-Yadav&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15)](https://github.com/Priyasha-Yadav)
-
+[![Trophies](https://github-trophies.vercel.app/?username=Priyasha-Yadav&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15)](https://github.com/Priyasha-Yadav)
 
 ## Stats:
 [![Stats](https://github-readme-stats.vercel.app/api?username=Priyasha-Yadav\&show_icons=true\&rank_icon=github&theme=highcontrast&border_color=00000000)](https://github.com/Priyasha-Yadav)
