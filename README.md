@@ -132,15 +132,27 @@ const Priyasha = {
 
 [![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@priyasha-yadav/)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/priyasha_yadav_1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Priyasha_Yadav/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/priyasha_yadav)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyasha-yadav-3a098833a)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyasha.yadav.cg@gmail.com)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YadavPriyasha)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/32474399)
+<br/>
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/priyasha_yadav)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyasha-yadav-3a098833a)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@experimental-coder)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Priyasha_Yadav/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://priyasha-yadav.vercel.app)
 
+<br/>
+
+<h3>Projects:</h3> 
+
+|<img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1741603916/Screenshot_2025-03-10_at_4.18.36_PM_tgwplb.png"/>| <img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1741166557/Screenshot_2025-03-05_at_2.48.51_PM_sxnozm.png"/>|<img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1763439540/Screenshot_2025-11-18_at_9.34.58_AM_vwsoe6.png"/>| 
+|-------------|-------------|---|
+|<br> [Jobmentum Demo](https://jomentum.netlify.app/) |<br> [Tic-Tac-Toe Demo](https://tic-tac-toe-py.netlify.app) |<br> [MernFolio Demo](https://mernfolio-delta.vercel.app) |
+|[View Repository](https://github.com/Priyasha-Yadav/job_portal)|[View Repository](https://github.com/Priyasha-Yadav/Mini-Projects/tree/main/tic-tac-toe)|[View Repository](https://github.com/Priyasha-Yadav/MERNfolio)|
+    
+<br/>
+<br/>
 
 ## Certificates
 
@@ -164,8 +176,7 @@ padding: auto;
   <img src="https://api2.sololearn.com/v2/certificates/CC-MZA4LT9Y/image/jpg" width="400" alt="SoloLearn JavaScript Certificate"/>
 </div>
 
-    
-    
+
 ## My Github Pets:
 
 
