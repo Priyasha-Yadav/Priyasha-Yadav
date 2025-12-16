@@ -152,7 +152,6 @@ const Priyasha = {
 |[View Repository](https://github.com/Priyasha-Yadav/job_portal)|[View Repository](https://github.com/Priyasha-Yadav/Mini-Projects/tree/main/tic-tac-toe)|[View Repository](https://github.com/Priyasha-Yadav/MERNfolio)|
     
 <br/>
-<br/>
 
 ## Certificates
 
