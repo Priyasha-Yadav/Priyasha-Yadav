@@ -141,6 +141,31 @@ const Priyasha = {
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@experimental-coder)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://priyasha-yadav.vercel.app)
 
+
+## Certificates
+
+<div style="
+  display: flex; 
+  flex-wrap: wrap; 
+  justify-content: center; 
+  gap: 20px; 
+padding: auto;
+">
+  <img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1751382209/Screenshot_2025-07-01_at_8.30.27_PM_ooileu.png" width="400" alt="Azure Fundamentals Certificate"/>
+
+  <img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1765797756/aicte_qeol2f.png" width="400" height="290" alt="AICTE Certificate"/>
+
+  <!-- <img src="https://media.licdn.com/dms/image/v2/D4E22AQHv7pA6sfRDAw/feedshare-shrink_2048_1536/B4EZq443nbGYAw-/0/1764038508223" width="400" alt="Power BI Fundamentals Certificate"/> -->
+<img src="https://media.licdn.com/dms/image/v2/D4E22AQHv7pA6sfRDAw/feedshare-shrink_2048_1536/B4EZq443nbGYAw-/0/1764038508223?e=1767225600&v=beta&t=6mOCCjnMOhY09y-1DgtwLRc041b8cWYXXKnGtQXckTE" width=400 alt="NPTEL Programming in Java"/>
+  <img src="https://certificates.simplicdn.net/share/8543560_87089041751407132908.png" width="400" alt="Simplilearn Azure Fundamentals"/>
+
+  <img src="https://certificates.simplicdn.net/share/8356658_87089041747516430791.png" width="400" alt="Simplilearn Github Copilot Fundamentals"/>
+
+  <img src="https://api2.sololearn.com/v2/certificates/CC-MZA4LT9Y/image/jpg" width="400" alt="SoloLearn JavaScript Certificate"/>
+</div>
+
+    
+    
 ## My Github Pets:
 
 
@@ -161,12 +186,11 @@ const Priyasha = {
 
 ## 💡 Current Quote: 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)
-<!---
-Priyasha-Yadav/Priyasha-Yadav is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
+<!---
 <a href="https://app.daily.dev/priyashayadav"><img src="https://api.daily.dev/devcards/v2/1Lf1eC3xtm6yG7SuAA0Bt.png?type=wide&r=dgy" width="652" alt="Priyasha Yadav's Dev Card"/></a>
 --->
+
 ![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/Priyasha-Yadav/Priyasha-Yadav/output/github-contribution-grid-snake-dark.svg)
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyasha-Yadav&custom_title=Development%20Activity&hide_border=true&bg_color=0d1117&line=23A401&point=B116A8&color=c9d1d9&title_color=23A401&area=true)
 ## Visits
