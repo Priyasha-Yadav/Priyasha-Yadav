@@ -71,10 +71,10 @@ const Priyasha = {
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"></td>
     </tr>
     <tr>
-      <td align="center"><img height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png"></td>
-      <td align="center"><img height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png"></td>
-      <td align="center"><img height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png"></td>
-      <td align="center"><img height="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redux.png"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"></td>
     </tr>
   </table>
 </td>
@@ -115,9 +115,9 @@ const Priyasha = {
 <img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1765797756/aicte_qeol2f.png" width="260" alt="AICTE Certificate"/>
 <!-- <img src="https://media.licdn.com/dms/image/v2/D4E22AQHv7pA6sfRDAw/feedshare-shrink_2048_1536/B4EZq443nbGYAw-/0/1764038508223" width="400" alt="Power BI Fundamentals Certificate"/> -->
 <img src="https://media.licdn.com/dms/image/v2/D4E22AQHv7pA6sfRDAw/feedshare-shrink_2048_1536/B4EZq443nbGYAw-/0/1764038508223?e=1767225600&v=beta&t=6mOCCjnMOhY09y-1DgtwLRc041b8cWYXXKnGtQXckTE" width=300 alt="NPTEL Programming in Java"/>
-<img src="https://certificates.simplicdn.net/share/8543560_87089041751407132908.png" width="300" alt="Simplilearn Azure Fundamentals"/>
-<img src="https://certificates.simplicdn.net/share/8356658_87089041747516430791.png" width="300" alt="Simplilearn Github Copilot Fundamentals"/>
-<img src="https://api2.sololearn.com/v2/certificates/CC-MZA4LT9Y/image/jpg" width="300" alt="SoloLearn JavaScript Certificate"/>
+<img src="https://certificates.simplicdn.net/share/8543560_87089041751407132908.png" width="270" alt="Simplilearn Azure Fundamentals"/>
+<img src="https://certificates.simplicdn.net/share/8356658_87089041747516430791.png" width="270" alt="Simplilearn Github Copilot Fundamentals"/>
+<img src="https://api2.sololearn.com/v2/certificates/CC-MZA4LT9Y/image/jpg" width="270" alt="SoloLearn JavaScript Certificate"/>
 
 </details>
 
