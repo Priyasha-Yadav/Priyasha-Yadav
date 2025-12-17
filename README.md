@@ -41,8 +41,8 @@ const Priyasha = {
     <tr>
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"></td>
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></td>
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png"></td>
+      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"></td>
     </tr>
     <tr>
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"></td>
@@ -51,7 +51,7 @@ const Priyasha = {
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"></td>
     </tr>
     <tr>
-      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png"></td>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png"></td>
       <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png"></td>
       <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png"></td>
       <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png"></td>
@@ -67,7 +67,7 @@ const Priyasha = {
     <tr>
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png"></td>
       <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png"></td>
-      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"></td>
+      <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png"></td>
       <td align="center"><img height="45" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png"></td>
     </tr>
     <tr>
@@ -113,11 +113,11 @@ const Priyasha = {
 
 <img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1751382209/Screenshot_2025-07-01_at_8.30.27_PM_ooileu.png" width="260" alt="Azure Fundamentals Certificate"/>
 <img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1765797756/aicte_qeol2f.png" width="260" alt="AICTE Certificate"/>
-<img src="https://api2.sololearn.com/v2/certificates/CC-MZA4LT9Y/image/jpg" width="260" alt="SoloLearn JavaScript Certificate"/>
 <!-- <img src="https://media.licdn.com/dms/image/v2/D4E22AQHv7pA6sfRDAw/feedshare-shrink_2048_1536/B4EZq443nbGYAw-/0/1764038508223" width="400" alt="Power BI Fundamentals Certificate"/> -->
 <img src="https://media.licdn.com/dms/image/v2/D4E22AQHv7pA6sfRDAw/feedshare-shrink_2048_1536/B4EZq443nbGYAw-/0/1764038508223?e=1767225600&v=beta&t=6mOCCjnMOhY09y-1DgtwLRc041b8cWYXXKnGtQXckTE" width=300 alt="NPTEL Programming in Java"/>
 <img src="https://certificates.simplicdn.net/share/8543560_87089041751407132908.png" width="300" alt="Simplilearn Azure Fundamentals"/>
 <img src="https://certificates.simplicdn.net/share/8356658_87089041747516430791.png" width="300" alt="Simplilearn Github Copilot Fundamentals"/>
+<img src="https://api2.sololearn.com/v2/certificates/CC-MZA4LT9Y/image/jpg" width="300" alt="SoloLearn JavaScript Certificate"/>
 
 </details>
 
@@ -186,12 +186,10 @@ const Priyasha = {
 
 
 > ✨ *“Ctrl + S, but make it sanskaari.”*  
-> — with love from 🇮🇳
-
+> — with love from <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     
 <!-- <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
@@ -211,4 +209,4 @@ const Priyasha = {
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div> -->
+</div> 
