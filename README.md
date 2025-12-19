@@ -186,7 +186,7 @@ const Priyasha = {
 
 
 > ✨ *“Ctrl + S, but make it sanskaari.”*  
-> — with love from <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
+> — with love from 🇮🇳 <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     
 <!-- <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
