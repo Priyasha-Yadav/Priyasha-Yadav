@@ -132,11 +132,12 @@ const Priyasha = {
 [![Trophies](https://github-trophies.vercel.app/?username=Priyasha-Yadav&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15)](https://github.com/Priyasha-Yadav)
 
 </br>
-
+<!--
 ## Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=Priyasha-Yadav\&show_icons=true\&rank_icon=github&theme=highcontrast&border_color=00000000)](https://github.com/Priyasha-Yadav) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyasha-Yadav&layout=compact&theme=highcontrast&hide_border=true&timestamp=1691123)](https://github.com/Priyasha-Yadav)
+[![Stats](https://github-readme-stats.vercel.app/api?username=Priyasha-Yadav\&show_icons=true\&rank_icon=github&theme=highcontrast&border_color=00000000)](https://github.com/Priyasha-Yadav) 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyasha-Yadav&layout=compact&theme=highcontrast&hide_border=true&timestamp=1691123)](https://github.com/Priyasha-Yadav)
+-->
 
-</br>
 </br>
 
 ## Also Find Me On
