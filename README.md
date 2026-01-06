@@ -114,7 +114,7 @@ const Priyasha = {
 <img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1751382209/Screenshot_2025-07-01_at_8.30.27_PM_ooileu.png" width="260" alt="Azure Fundamentals Certificate"/>
 <img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1765797756/aicte_qeol2f.png" width="260" alt="AICTE Certificate"/>
 <!-- <img src="https://media.licdn.com/dms/image/v2/D4E22AQHv7pA6sfRDAw/feedshare-shrink_2048_1536/B4EZq443nbGYAw-/0/1764038508223" width="400" alt="Power BI Fundamentals Certificate"/> -->
-<img src="https://media.licdn.com/dms/image/v2/D4E22AQHv7pA6sfRDAw/feedshare-shrink_2048_1536/B4EZq443nbGYAw-/0/1764038508223?e=1767225600&v=beta&t=6mOCCjnMOhY09y-1DgtwLRc041b8cWYXXKnGtQXckTE" width=300 alt="NPTEL Programming in Java"/>
+<img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1767675826/Screenshot_2026-01-06_at_10.33.31_AM_wwwd9z.png" width=300 alt="NPTEL Programming in Java"/>
 <img src="https://certificates.simplicdn.net/share/8543560_87089041751407132908.png" width="270" alt="Simplilearn Azure Fundamentals"/>
 <img src="https://certificates.simplicdn.net/share/8356658_87089041747516430791.png" width="270" alt="Simplilearn Github Copilot Fundamentals"/>
 <img src="https://api2.sololearn.com/v2/certificates/CC-MZA4LT9Y/image/jpg" width="270" alt="SoloLearn JavaScript Certificate"/>
