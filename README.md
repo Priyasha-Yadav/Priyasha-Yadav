@@ -1,4 +1,5 @@
 # Heya! 👋 I'm Priyasha Yadav
+### Full-Stack Developer | MERN | DSA Enthusiast | Problem Solver
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile!)
 
 I’m Priyasha — a full-stack developer passionate about building user-friendly web applications. I work primarily with modern JavaScript frameworks, backend APIs, and databases to turn ideas into working products.  
@@ -8,23 +9,70 @@ I enjoy late-night problem solving, exploring AI-driven technologies, and contin
 
 <br/>
 
+## Highlights 
+- Creating clear DSA walkthroughs — step-by-step problem breakdowns on YouTube
+- Solved 300+ DSA problems on LeetCode
+- Sharing technical learnings and project updates on LinkedIn
+- Building and deploying full-stack MERN applications
+
+<br/>
+
+## Currently Focused On
+
+- Designing scalable MERN architectures  
+- Deepening core CS understanding (Operating Systems, system design, DevOps workflows)  
+- Building AI-enhanced web experiences with practical use cases  
+
+<br/>
+
+## Projects
+
+|<img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1741603916/Screenshot_2025-03-10_at_4.18.36_PM_tgwplb.png"/>| <img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1741166557/Screenshot_2025-03-05_at_2.48.51_PM_sxnozm.png"/>|<img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1763439540/Screenshot_2025-11-18_at_9.34.58_AM_vwsoe6.png"/>| 
+|-------------|-------------|---|
+|<br> [Jobmentum Demo](https://jomentum.netlify.app/) |<br> [Tic-Tac-Toe Demo](https://tic-tac-toe-py.netlify.app) |<br> [MernFolio Demo](https://mernfolio-delta.vercel.app) |
+|[View Repository](https://github.com/Priyasha-Yadav/job_portal)|[View Repository](https://github.com/Priyasha-Yadav/Mini-Projects/tree/main/tic-tac-toe)|[View Repository](https://github.com/Priyasha-Yadav/MERNfolio)|
+|Full-stack job portal with role-based dashboards and secure JWT authentication.|Interactive browser-based game with win detection and reset logic.|MERN-based portfolio builder for generating customizable personal websites.|
+
+<br/>
+
 ## About Me
-```javascript
+```js
 const Priyasha = {
   pronouns: "She/Her",
-  code: ["C", "C++", "JavaScript"],
+  title: "Full-Stack Developer",
+  currentFocus: [
+    "Data Structures & Algorithms",
+    "Building scalable MERN applications",
+    "Writing cleaner, more maintainable code"
+  ],
+
+  code: ["C", "C++", "JavaScript", "Java"],
+
   technologies: {
     frontEnd: {
-      js: ["React"],
-      css: ["Tailwind CSS"],
+      library: ["React"],
+      frameworks: ["Next.js"],
+      styling: ["Tailwind CSS"],
     },
     backEnd: {
-      js: ["Node", "Express"],
+      runtime: ["Node.js"],
+      framework: ["Express.js"],
+      authentication: ["JWT"],
+      security: ["bcrypt"]
     },
-    databases: ["MongoDB"],
-    misc: ["REST APIs"],
+    databases: ["MongoDB", "MySQL"],
+    tools: ["Git", "GitHub", "Postman", "VS Code"],
+    deployments: ["Vercel", "Render", "Netlify", "AWS"]
   },
-  funFact: "Favourite emoji: 💀 (because coding is sometimes *that* dramatic)"
+
+  architectureMindset: [
+    "Modular design",
+    "Readable over clever",
+    "Performance-aware coding"
+  ],
+  
+  currentlyBuilding: "Production-style MERN projects",
+  funFact: "Favourite emoji: 💀 (because coding is *that* dramatic)"
 };
 ```
 <br/>
@@ -83,31 +131,6 @@ const Priyasha = {
 
 <br/>
 
-
-## Connect With Me
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyasha-yadav-3a098833a)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/Priyasha_Yadav/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://priyasha-yadav.vercel.app)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@experimental-coder)
-
-
-* Create DSA explanation videos on YouTube, focusing on clear, step-by-step problem solving
-* Solved 150+ DSA problems on LeetCode
-* Share technical learnings and project updates regularly on LinkedIn
-
-<br/>
-
-## Projects
-
-|<img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1741603916/Screenshot_2025-03-10_at_4.18.36_PM_tgwplb.png"/>| <img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1741166557/Screenshot_2025-03-05_at_2.48.51_PM_sxnozm.png"/>|<img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1763439540/Screenshot_2025-11-18_at_9.34.58_AM_vwsoe6.png"/>| 
-|-------------|-------------|---|
-|<br> [Jobmentum Demo](https://jomentum.netlify.app/) |<br> [Tic-Tac-Toe Demo](https://tic-tac-toe-py.netlify.app) |<br> [MernFolio Demo](https://mernfolio-delta.vercel.app) |
-|[View Repository](https://github.com/Priyasha-Yadav/job_portal)|[View Repository](https://github.com/Priyasha-Yadav/Mini-Projects/tree/main/tic-tac-toe)|[View Repository](https://github.com/Priyasha-Yadav/MERNfolio)|
-| A MERN-based job portal enabling job seekers and recruiters to manage applications via secure dashboards.| An interactive browser-based Tic Tac Toe game with win detection and reset functionality.| A MERN_based Portfolio builder designed for users who want to create their personal portfolio websites.|
-
-<br/>
-
 <details>
 <summary><h2> View Certificates (Toggle Here) </h2></summary>
 
@@ -121,6 +144,81 @@ const Priyasha = {
 
 </details>
 
+<br/>
+
+## Connect
+
+<table align="center">
+  <tr>
+    <td align="center" colspan="3"><b>Professional</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/priyasha-yadav-3a098833a">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://priyasha-yadav.vercel.app">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:priyasha.yadav.cg@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr><td colspan="3"><br/></td></tr>
+
+  <tr>
+    <td align="center" colspan="3"><b>Coding Profiles</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://leetcode.com/u/Priyasha_Yadav/">
+        <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=d16c06"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.codechef.com/users/priyasha_yadav">
+        <img src="https://img.shields.io/badge/CodeChef-964B00?style=for-the-badge&logo=CodeChef&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/priyasha_yadav_1">
+        <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.hackerearth.com/@priyasha-yadav/">
+        <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=HackerEarth&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.sololearn.com/en/profile/32474399">
+        <img src="https://img.shields.io/badge/SoloLearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"/>
+      </a>
+    </td>
+    <td></td>
+  </tr>
+
+  <tr><td colspan="3"><br/></td></tr>
+
+  <tr>
+    <td align="center" colspan="3"><b>Content</b></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <a href="https://www.youtube.com/@experimental-coder">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 <br/>
 
 ![GitHub Contribution Snake Dark](https://raw.githubusercontent.com/Priyasha-Yadav/Priyasha-Yadav/output/github-contribution-grid-snake-dark.svg)
@@ -138,17 +236,6 @@ const Priyasha = {
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyasha-Yadav&layout=compact&theme=highcontrast&hide_border=true&timestamp=1691123)](https://github.com/Priyasha-Yadav)
 -->
 
-</br>
-
-## Also Find Me On
-[![Hackerearth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)](https://www.hackerearth.com/@priyasha-yadav/)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/priyasha_yadav_1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyasha.yadav.cg@gmail.com)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/YadavPriyasha)
-[![Sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/en/profile/32474399)
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/priyasha_yadav)
-
-</br>
 </br>
 
 ## My GitHub Pets
