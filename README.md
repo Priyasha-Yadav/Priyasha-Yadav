@@ -124,6 +124,9 @@ const Priyasha = {
       <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/auth0.png"></td>
       <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png"></td>
     </tr>
+        <tr>
+      <td align="center"><img height="45" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png"></td>
+    </tr>
   </table>
 </td>
   </tr>
