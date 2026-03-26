@@ -243,19 +243,9 @@ const Priyasha = {
 
 ## My GitHub Pets
 
-<a href="https://github.com/Priyasha-Yadav/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Priyasha-Yadav" width="5000" height="120"/>
-</a>
-
-
-<a href="https://github.com/Priyasha-Yadav/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Priyasha-Yadav?pet-id=698387297160483684" width="1200" height="200"/>
-</a>
-
-
-<a href="https://github.com/Priyasha-Yadav/gitanimals">
-  <img src="https://render.gitanimals.org/lines/Priyasha-Yadav?pet-id=698387297160483685" width="1200" height="260"/>
-</a>
+<div align="center" style="background-color: #000000; padding: 20px; border-radius: 12px;">
+  <img src="https://render.gitanimals.org/farms/Priyasha-Yadav"/>
+</div>  
 
 ## Current Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)
