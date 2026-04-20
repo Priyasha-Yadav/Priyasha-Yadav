@@ -11,7 +11,7 @@ I enjoy late-night problem solving, exploring AI-driven technologies, and contin
 
 ## Highlights 
 - Creating clear DSA walkthroughs — step-by-step problem breakdowns on YouTube
-- Solved 300+ DSA problems on LeetCode
+- Solved 300+ DSA problems on LeetCode <a href="https://leetcode.com/Priyasha_Yadav" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Priyasha_Yadav" height="20" width="20" /></a><a href="https://leetcode.com/Priyasha_Yadav" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/50.gif" alt="Priyasha_Yadav" height="20" width="20" /></a>
 - Sharing technical learnings and project updates on LinkedIn
 - Building and deploying full-stack MERN applications
 
