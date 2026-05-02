@@ -1,9 +1,17 @@
-# Heya! 👋 I'm Priyasha Yadav
-### Full-Stack Developer | MERN | DSA Enthusiast | Problem Solver
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile!)
+# Heya! I'm Priyasha Yadav
+### Full-Stack Developer | MERN | DSA Enthusiast | Problem Solver     
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile!)   
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="150" />
+</div>
 
 I’m Priyasha — a full-stack developer passionate about building user-friendly web applications. I work primarily with modern JavaScript frameworks, backend APIs, and databases to turn ideas into working products.  
-I enjoy late-night problem solving, exploring AI-driven technologies, and continuously pushing myself to write better, cleaner code. Curious like a child, learning like a student, and building like an engineer — always growing, always creating 🚀  
+I enjoy late-night problem solving, exploring AI-driven technologies, and continuously pushing myself to write better, cleaner code. Curious like a child, learning like a student, and building like an engineer — always growing, always creating. 
 
 <i>PS: No world domination plans — just clean code and good ideas.</i>
 
@@ -232,24 +240,16 @@ const Priyasha = {
 ## Trophies
 [![Trophies](https://github-trophies.vercel.app/?username=Priyasha-Yadav&theme=juicyfresh&no-frame=true&margin-w=15&margin-h=15)](https://github.com/Priyasha-Yadav)
 
-</br>
-<!--
-## Stats
-[![Stats](https://github-readme-stats.vercel.app/api?username=Priyasha-Yadav\&show_icons=true\&rank_icon=github&theme=highcontrast&border_color=00000000)](https://github.com/Priyasha-Yadav) 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyasha-Yadav&layout=compact&theme=highcontrast&hide_border=true&timestamp=1691123)](https://github.com/Priyasha-Yadav)
--->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-</br>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/216656967-625b2a52-e638-4c21-a8ae-180560386f96.gif" width="160" />
+<img src="https://user-images.githubusercontent.com/74038190/216656986-e4424d73-56dd-4e0d-96ac-66f9f2c3be42.gif" width="160" />
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="160"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656944-f8c1b44e-493b-487f-87be-6cfe6a1a3374.gif" width="160"/>
+<img src="https://user-images.githubusercontent.com/74038190/216655855-e00c1861-e964-4b4f-90ae-2592cad7b272.gif" width="160"/>
+</div>
 
-## My GitHub Pets
-
-<div align="center" style="background-color: #000000; padding: 20px; border-radius: 12px;">
-  <img src="https://render.gitanimals.org/farms/Priyasha-Yadav"/>
-</div>  
-
-## Current Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin)
-![Visits Badge](https://profile-counter.deno.dev/:Priyasha-Yadav:/count.svg)
 
 <!---
 <a href="https://app.daily.dev/priyashayadav"><img src="https://api.daily.dev/devcards/v2/1Lf1eC3xtm6yG7SuAA0Bt.png?type=wide&r=dgy" width="652" alt="Priyasha Yadav's Dev Card"/></a>
@@ -262,32 +262,14 @@ const Priyasha = {
 <p align="center">
   <img src="https://res.cloudinary.com/dd5zrwqzj/image/upload/v1745505105/Web_Photo_Editor_zfckuk.jpg" width="500" style="border-radius: 50%;">
   <br/>
-  <em>When your code compiles and so does your personality 🌟</em>
+  <em>When your code compiles and so does your personality</em>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="30">
 </p>
 
 
 > ✨ *“Ctrl + S, but make it sanskaari.”*  
 > — with love from 🇮🇳 <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
-    
-<!-- <div>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/exceptionallyfastparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
-</div> 
+
+![Visits Badge](https://profile-counter.deno.dev/:Priyasha-Yadav:/count.svg)
+
+
